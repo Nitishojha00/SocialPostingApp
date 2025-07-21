@@ -10,7 +10,7 @@ This app allows users to create, manage, and interact with posts in a clean and 
 
 ### 🔐 Authentication
 - Secure **Signup/Login** using **JWT**.
-- Passwords are hashed using **Argon2** (or bcrypt).
+- Passwords are hashed using bcrypt (or **Argon2**) .
 - Only authenticated users can access dashboard and post actions.
 
 ### 📝 Post Management
