@@ -1,4 +1,4 @@
-# Social-Post-App
+# Social-Post-App (Working)
 
 A modern and secure social media posting platform built by me using **Node.js, Express, MongoDB, Tailwind CSS, EJS, and JWT**.
 
